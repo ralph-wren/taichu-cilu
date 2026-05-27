@@ -1,4 +1,10 @@
-# 《穆天子會西王母記》
+<div align="center">
+  <h1>《穆天子會西王母記》</h1>
+</div>
+
+<div align="center">
+  <img src="./output/imagegen/20260527-mutianzi-xiwangmu-cover/mutianzi-xiwangmu-cover.png" alt="穆天子會西王母題圖" width="520" />
+</div>
 
 ## 體裁
 
